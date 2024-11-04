@@ -22,8 +22,5 @@ This project analyzes trends in consumer credit card balances, with a focus on g
 - Significant increase in credit balances starting in 2020.
 - Recurring seasonal spikes during the holiday season.
 
-## How to View the Notebook
-You can view the notebook directly on GitHub or run it locally by downloading and using Jupyter Notebook.
-
 ## Contact
-If you have any questions or feedback, feel free to contact me at [Your Email] or via GitHub.
+If you have any questions or feedback, feel free to contact me via GitHub.
