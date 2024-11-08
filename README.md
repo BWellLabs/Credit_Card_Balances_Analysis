@@ -4,9 +4,9 @@ Consumer Credit Card Balances Analysis (2012-2024)
 This project analyzes trends in consumer credit card balances, with a focus on growth rates, seasonal patterns, and volatility over time. The data is sourced from the Federal Reserve Economic Data (FRED).
 Project Overview
 
-    Data Source: Federal Reserve Economic Data (FRED)
-    Time Period: 2012 to 2024
-    Libraries Used: Pandas, Matplotlib, Statsmodels
+Data Source: Federal Reserve Economic Data (FRED)
+Time Period: 2012 to 2024
+Libraries Used: Pandas, Matplotlib, Statsmodels
 
 Analysis Highlights
 
